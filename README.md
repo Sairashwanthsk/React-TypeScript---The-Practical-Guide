@@ -1,4 +1,4 @@
-# React-TypeScript---The-Practical-Guide
+# Goal-Tracker-Using-React-Typescript
 
 Installing Typescript Compiler:
 npm install typescript --save-dev
